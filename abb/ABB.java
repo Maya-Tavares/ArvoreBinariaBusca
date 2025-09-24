@@ -1,10 +1,12 @@
+package abb;
+
 public class ABB {
     private class No{
         int data;
         No left, right;
     }
 
-// ABB = binary search tree
+// abb.ABB = binary search tree
 
     public No root = null;
 
